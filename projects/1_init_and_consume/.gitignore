@@ -1,0 +1,8 @@
+# Python version
+.python-version
+
+# Environment file
+.env
+
+# Virtual environments
+.venv
