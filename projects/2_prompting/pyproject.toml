@@ -1,0 +1,14 @@
+[project]
+name = "module2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google-api-core>=2.25.1",
+    "google-genai==1.7.0",
+    "jupyter>=1.1.1",
+    "langchain>=0.3.27",
+    "langchain-google-genai>=2.1.9",
+    "python-dotenv>=1.1.1",
+]
